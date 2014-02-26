@@ -1,0 +1,12 @@
+4
+net37.utdallas.edu
+net38.utdallas.edu
+net39.utdallas.edu
+net40.utdallas.edu
+
+8420
+8421
+8422
+8423
+8424
+8425

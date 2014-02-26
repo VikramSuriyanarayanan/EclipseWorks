@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="tryProjects"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-ant-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-client-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-core-1.0.4.jar" sourcepath="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-examples-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-minicluster-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-test-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-1.0.4/hadoop-1.0.4/hadoop-tools-1.0.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bigData"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/empProj"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/forTest"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoptrail"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NetworkDesign"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PcnAssignmentOne"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PerformanceOfComputerNetworks"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/second Project"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

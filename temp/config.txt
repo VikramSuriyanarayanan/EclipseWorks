@@ -1,0 +1,17 @@
+5
+net37.utdallas.edu
+net38.utdallas.edu
+net39.utdallas.edu
+net40.utdallas.edu
+net41.utdallas.edu
+
+8000
+8001
+8002
+8003
+8004
+8005
+8006
+8007
+8008
+8009
